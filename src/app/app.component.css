@@ -1,0 +1,55 @@
+/* @import '~@angular/material/prebuilt-themes/indigo-pink.css'; */
+/* @import '~@angular/material/prebuilt-themes/deeppurple-amber.css'; */
+
+#background{
+    display: grid;
+    background-color: #302F74;
+    width: 100vw;
+    height: 100vh;
+    place-content: center center;
+}
+.mat-card{
+    display: grid;
+    place-content: center center;
+    background-color: #5453A4;
+    width:96.869270833vw;
+    height:94.444444444vh;
+    padding: 0;
+}
+
+.example-form {
+    width: 23.958333333vw;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+}
+
+.example-full-width {
+  width: 100%;
+} 
+
+.input-text{
+    width: 23.958333333vw;
+    height: 4.814814815vh;
+    background-color: #302F74;
+    border: 0;
+    color:#8787AC;
+}
+.button-signIn{
+    width: 23.958333333vw;
+    height: 4.814814815vh;
+    background: linear-gradient(to right, rgba(146, 226, 249, 1),rgba(52, 204, 198, 1));
+}
+.tag-line{
+    color:rgba(184, 184, 219, 1);
+}
+.forgot-blue{
+    color:rgba(52, 204, 198, 1);
+    text-align: right;
+}
+.mat-checkbox{
+    text-align: left;
+}
+.last-tag{
+    margin-bottom: 9.166666667vh;
+}
+/* 23.958333333 */
